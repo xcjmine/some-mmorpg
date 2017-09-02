@@ -1,7 +1,7 @@
 skynet_root = "../3rd/skynet/"
 root = "./"
 common = "../common/"
-thread = 8
+thread = 2
 -- logger = "$SERVER_NAME"
 -- logservice = "syslog"
 harbor = 0

@@ -1,7 +1,8 @@
 #include <lua.h>
 #include <lauxlib.h>
 
-static uint32_t sid;
+static unsigned int sid;
+//static uint32_t sid;
 
 static int
 lsid (lua_State *L) {
