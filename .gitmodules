@@ -6,3 +6,6 @@
 	path = 3rd/redis
 	url = git@github.com:antirez/redis.git
 	branch = 2.8
+[submodule "3rd/openssl"]
+	path = 3rd/openssl
+	url = git@github.com:openssl/openssl.git
